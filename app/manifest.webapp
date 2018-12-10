@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "name": "Basic OpenMRS App",
+  "description": "Just the basics from a yeoman generator",
+  "launch_path": "index.html",
+  "icons": {
+    "48": "/img/omrs-button.png"
+  },
+  "developer": {
+    "name": "ccallan",
+    "url": "https://github.com/ccallan/openmrs-owa-basicopenmrsapp"
+  },
+  "default_locale": "en",
+    "activities": {
+      "openmrs": {
+        "href": "*"
+      }
+    }
+}
